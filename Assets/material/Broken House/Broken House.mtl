@@ -1,0 +1,119 @@
+# Blender MTL File: 'None'
+# Material Count: 9
+
+newmtl blockhouse_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd blockhouse_dif.png
+map_Bump blockhouse_norm.png
+map_Ka blockhouse_dif.png
+
+newmtl blockhouse_old_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd blockhouse_dif.png
+map_Bump blockhouse_norm.png
+map_Ka blockhouse_dif.png
+
+newmtl brick_4_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd brick_1_dif.png
+map_Bump brick_2_norm.png
+map_Ka brick_1_dif.png
+
+newmtl floor_old_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd floor_25_dif.png
+map_Bump apartments_guestroom_floor_norm.png
+map_Ka floor_25_dif.png
+
+newmtl roof_3_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd roof_1_dif.png
+map_Bump roof_1_norm.png
+map_Ka roof_1_dif.png
+
+newmtl wood_48_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wood_37_dif.png
+map_Bump wood_37_norm.png
+map_Ka wood_37_dif.png
+
+newmtl wood_49_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wood_37_dif.png
+map_Bump wood_37_norm.png
+map_Ka wood_37_dif.png
+
+newmtl wood_old_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wood_old_dif.png
+map_Bump wood_old_norm.png
+map_Ka wood_old_dif.png
+
+newmtl wood_old_white_Inst
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wood_old_white_dif.png
+map_Bump wood_old_norm.png
+map_Ka wood_old_white_dif.png
